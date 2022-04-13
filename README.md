@@ -1,2 +1,2 @@
-# Scientifi-Calculator-
+# Scientific-Calculator-
 scientific calculator using tkinter which also have speech recognition.
